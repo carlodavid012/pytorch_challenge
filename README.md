@@ -12,6 +12,7 @@ Perceptron
 - building block of neural networks
 
 Perceptron trick
+- For a point with coordinates with (p,q), label y, and prediction given by the equation y_hat = step(w1x1 + w2x2 + b)
 - if the point is classified as positive but has a negative label, subtract ap, aq, and a from w1, w2 and b respectively
 - if the point is classified as negative but has a positive label, add ap, aq, and a from w1, w2 and b respectively
 
