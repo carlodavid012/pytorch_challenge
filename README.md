@@ -36,3 +36,7 @@ Maximum likelihood
 
 Cross Entropy
 - error function for multiclass classification
+
+Dropout
+- used to reduce overfitting, the idea is to randomly turn off some nodes while training
+
